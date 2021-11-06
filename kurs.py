@@ -1,6 +1,6 @@
 a = int(input())
 b = int(input())
-while a > 0 and b > 0:
+while a > 0 and b > 0: # Комментарий(пробный)
     if a < b or a > b:
         print(a*b)
         exit(0)
